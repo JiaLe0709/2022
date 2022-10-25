@@ -1,0 +1,5002 @@
+[
+ {
+  "classes": "000",
+  "image": "books.png",
+  "details": "Computer science, information & general works"
+ },
+ {
+  "classes": "001",
+  "image": "books.png",
+  "details": "Knowledge"
+ },
+ {
+  "classes": "002",
+  "image": "books.png",
+  "details": "The book"
+ },
+ {
+  "classes": "003",
+  "image": "books.png",
+  "details": "Systems"
+ },
+ {
+  "classes": "004",
+  "image": "books.png",
+  "details": "Data processing & computer science"
+ },
+ {
+  "classes": "005",
+  "image": "books.png",
+  "details": "Computer programming, programs & data"
+ },
+ {
+  "classes": "006",
+  "image": "books.png",
+  "details": "Special computer methods"
+ },
+ {
+  "classes": "007",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "008",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "009",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "010",
+  "image": "books.png",
+  "details": "Bibliography"
+ },
+ {
+  "classes": "011",
+  "image": "books.png",
+  "details": "Bibliographies"
+ },
+ {
+  "classes": "012",
+  "image": "books.png",
+  "details": "Bibliographies of individuals"
+ },
+ {
+  "classes": "013",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "014",
+  "image": "books.png",
+  "details": "Bibliographies of anonymous & pseudonymous works"
+ },
+ {
+  "classes": "015",
+  "image": "books.png",
+  "details": "Bibliographies of works from specific places"
+ },
+ {
+  "classes": "016",
+  "image": "books.png",
+  "details": "Bibliographies of works on specific subjects"
+ },
+ {
+  "classes": "017",
+  "image": "books.png",
+  "details": "General subject catalogs"
+ },
+ {
+  "classes": "018",
+  "image": "books.png",
+  "details": "Catalogs arranged by author, date, etc."
+ },
+ {
+  "classes": "019",
+  "image": "books.png",
+  "details": "Dictionary catalogs"
+ },
+ {
+  "classes": "020",
+  "image": "books.png",
+  "details": "Library & information sciences"
+ },
+ {
+  "classes": "021",
+  "image": "books.png",
+  "details": "Library relationships"
+ },
+ {
+  "classes": "022",
+  "image": "books.png",
+  "details": "Administration of physical plant"
+ },
+ {
+  "classes": "023",
+  "image": "books.png",
+  "details": "Personnel management"
+ },
+ {
+  "classes": "024",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "025",
+  "image": "books.png",
+  "details": "Library operations"
+ },
+ {
+  "classes": "026",
+  "image": "books.png",
+  "details": "Libraries for specific subjects"
+ },
+ {
+  "classes": "027",
+  "image": "books.png",
+  "details": "General libraries"
+ },
+ {
+  "classes": "028",
+  "image": "books.png",
+  "details": "Reading & use of other information media"
+ },
+ {
+  "classes": "029",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "030",
+  "image": "books.png",
+  "details": "General encyclopedic works"
+ },
+ {
+  "classes": "031",
+  "image": "books.png",
+  "details": "Encyclopedias in American English"
+ },
+ {
+  "classes": "032",
+  "image": "books.png",
+  "details": "Encyclopedias in English"
+ },
+ {
+  "classes": "033",
+  "image": "books.png",
+  "details": "Encyclopedias in other Germanic languages"
+ },
+ {
+  "classes": "034",
+  "image": "books.png",
+  "details": "Encyclopedias in French, Occitan & Catalan"
+ },
+ {
+  "classes": "035",
+  "image": "books.png",
+  "details": "Encyclopedias in Italian, Romanian & related languages"
+ },
+ {
+  "classes": "036",
+  "image": "books.png",
+  "details": "Encyclopedias in Spanish & Portuguese"
+ },
+ {
+  "classes": "037",
+  "image": "books.png",
+  "details": "Encyclopedias in Slavic languages"
+ },
+ {
+  "classes": "038",
+  "image": "books.png",
+  "details": "Encyclopedias in Scandinavian languages"
+ },
+ {
+  "classes": "039",
+  "image": "books.png",
+  "details": "Encyclopedias in other languages"
+ },
+ {
+  "classes": "040",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "041",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "042",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "043",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "044",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "045",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "046",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "047",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "048",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "049",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "050",
+  "image": "books.png",
+  "details": "General serial publications"
+ },
+ {
+  "classes": "051",
+  "image": "books.png",
+  "details": "Serials in American English"
+ },
+ {
+  "classes": "052",
+  "image": "books.png",
+  "details": "Serials in English"
+ },
+ {
+  "classes": "053",
+  "image": "books.png",
+  "details": "Serials in other Germanic languages"
+ },
+ {
+  "classes": "054",
+  "image": "books.png",
+  "details": "Serials in French, Occitan & Catalan"
+ },
+ {
+  "classes": "055",
+  "image": "books.png",
+  "details": "Serials in Italian, Romanian & related languages"
+ },
+ {
+  "classes": "056",
+  "image": "books.png",
+  "details": "Serials in Spanish & Portuguese"
+ },
+ {
+  "classes": "057",
+  "image": "books.png",
+  "details": "Serials in Slavic languages"
+ },
+ {
+  "classes": "058",
+  "image": "books.png",
+  "details": "Serials in Scandinavian languages"
+ },
+ {
+  "classes": "059",
+  "image": "books.png",
+  "details": "Serials in other languages"
+ },
+ {
+  "classes": "060",
+  "image": "books.png",
+  "details": "General organizations & museum science"
+ },
+ {
+  "classes": "061",
+  "image": "books.png",
+  "details": "Organizations in North America"
+ },
+ {
+  "classes": "062",
+  "image": "books.png",
+  "details": "Organizations in British Isles; in England"
+ },
+ {
+  "classes": "063",
+  "image": "books.png",
+  "details": "Organizations in central Europe; in Germany"
+ },
+ {
+  "classes": "064",
+  "image": "books.png",
+  "details": "Organizations in France & Monaco"
+ },
+ {
+  "classes": "065",
+  "image": "books.png",
+  "details": "Organizations in Italy & adjacent islands"
+ },
+ {
+  "classes": "066",
+  "image": "books.png",
+  "details": "Organizations in Iberian Peninsula & adjacent islands"
+ },
+ {
+  "classes": "067",
+  "image": "books.png",
+  "details": "Organizations in eastern Europe; in Russia"
+ },
+ {
+  "classes": "068",
+  "image": "books.png",
+  "details": "Organizations in other geographic areas"
+ },
+ {
+  "classes": "069",
+  "image": "books.png",
+  "details": "Museum science"
+ },
+ {
+  "classes": "070",
+  "image": "books.png",
+  "details": "News media, journalism & publishing"
+ },
+ {
+  "classes": "071",
+  "image": "books.png",
+  "details": "Newspapers in North America"
+ },
+ {
+  "classes": "072",
+  "image": "books.png",
+  "details": "Newspapers in British Isles; in England"
+ },
+ {
+  "classes": "073",
+  "image": "books.png",
+  "details": "Newspapers in central Europe; in Germany"
+ },
+ {
+  "classes": "074",
+  "image": "books.png",
+  "details": "Newspapers in France & Monaco"
+ },
+ {
+  "classes": "075",
+  "image": "books.png",
+  "details": "Newspapers in Italy & adjacent islands"
+ },
+ {
+  "classes": "076",
+  "image": "books.png",
+  "details": "Newspapers in Iberian Peninsula & adjacent islands"
+ },
+ {
+  "classes": "077",
+  "image": "books.png",
+  "details": "Newspapers in eastern Europe; in Russia"
+ },
+ {
+  "classes": "078",
+  "image": "books.png",
+  "details": "Newspapers in Scandinavia"
+ },
+ {
+  "classes": "079",
+  "image": "books.png",
+  "details": "Newspapers in other geographic areas"
+ },
+ {
+  "classes": "080",
+  "image": "books.png",
+  "details": "General collections"
+ },
+ {
+  "classes": "081",
+  "image": "books.png",
+  "details": "Collections in American English"
+ },
+ {
+  "classes": "082",
+  "image": "books.png",
+  "details": "Collections in English"
+ },
+ {
+  "classes": "083",
+  "image": "books.png",
+  "details": "Collections in other Germanic languages"
+ },
+ {
+  "classes": "084",
+  "image": "books.png",
+  "details": "Collections in French, Occitan & Catalan"
+ },
+ {
+  "classes": "085",
+  "image": "books.png",
+  "details": "Collections in Italian, Romanian & related languages"
+ },
+ {
+  "classes": "086",
+  "image": "books.png",
+  "details": "Collections in Spanish & Portuguese"
+ },
+ {
+  "classes": "087",
+  "image": "books.png",
+  "details": "Collections in Slavic languages"
+ },
+ {
+  "classes": "088",
+  "image": "books.png",
+  "details": "Collections in Scandinavian languages"
+ },
+ {
+  "classes": "089",
+  "image": "books.png",
+  "details": "Collections in other languages"
+ },
+ {
+  "classes": "090",
+  "image": "books.png",
+  "details": "Manuscripts & rare books"
+ },
+ {
+  "classes": "091",
+  "image": "books.png",
+  "details": "Manuscripts"
+ },
+ {
+  "classes": "092",
+  "image": "books.png",
+  "details": "Block books"
+ },
+ {
+  "classes": "093",
+  "image": "books.png",
+  "details": "Incunabula"
+ },
+ {
+  "classes": "094",
+  "image": "books.png",
+  "details": "Printed books"
+ },
+ {
+  "classes": "095",
+  "image": "books.png",
+  "details": "Books notable for bindings"
+ },
+ {
+  "classes": "096",
+  "image": "books.png",
+  "details": "Books notable for illustrations"
+ },
+ {
+  "classes": "097",
+  "image": "books.png",
+  "details": "Books notable for ownership or origin"
+ },
+ {
+  "classes": "098",
+  "image": "books.png",
+  "details": "Prohibited works, forgeries & hoaxes"
+ },
+ {
+  "classes": "099",
+  "image": "books.png",
+  "details": "Books notable for format"
+ },
+ {
+  "classes": "100",
+  "image": "books.png",
+  "details": "Philosophy & psychology"
+ },
+ {
+  "classes": "101",
+  "image": "books.png",
+  "details": "Theory of philosophy"
+ },
+ {
+  "classes": "102",
+  "image": "books.png",
+  "details": "Miscellany"
+ },
+ {
+  "classes": "103",
+  "image": "books.png",
+  "details": "Dictionaries & encyclopedias"
+ },
+ {
+  "classes": "104",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "105",
+  "image": "books.png",
+  "details": "Serial publications"
+ },
+ {
+  "classes": "106",
+  "image": "books.png",
+  "details": "Organizations & management"
+ },
+ {
+  "classes": "107",
+  "image": "books.png",
+  "details": "Education, research & related topics"
+ },
+ {
+  "classes": "108",
+  "image": "books.png",
+  "details": "Kinds of persons treatment"
+ },
+ {
+  "classes": "109",
+  "image": "books.png",
+  "details": "Historical & collected persons treatment"
+ },
+ {
+  "classes": "110",
+  "image": "books.png",
+  "details": "Metaphysics"
+ },
+ {
+  "classes": "111",
+  "image": "books.png",
+  "details": "Ontology"
+ },
+ {
+  "classes": "112",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "113",
+  "image": "books.png",
+  "details": "Cosmology"
+ },
+ {
+  "classes": "114",
+  "image": "books.png",
+  "details": "Space"
+ },
+ {
+  "classes": "115",
+  "image": "books.png",
+  "details": "Time"
+ },
+ {
+  "classes": "116",
+  "image": "books.png",
+  "details": "Change"
+ },
+ {
+  "classes": "117",
+  "image": "books.png",
+  "details": "Structure"
+ },
+ {
+  "classes": "118",
+  "image": "books.png",
+  "details": "Force & energy"
+ },
+ {
+  "classes": "119",
+  "image": "books.png",
+  "details": "Number & quantity"
+ },
+ {
+  "classes": "120",
+  "image": "books.png",
+  "details": "Epistemology, causation & humankind"
+ },
+ {
+  "classes": "121",
+  "image": "books.png",
+  "details": "Epistemology"
+ },
+ {
+  "classes": "122",
+  "image": "books.png",
+  "details": "Causation"
+ },
+ {
+  "classes": "123",
+  "image": "books.png",
+  "details": "Determinism & indeterminism"
+ },
+ {
+  "classes": "124",
+  "image": "books.png",
+  "details": "Teleology"
+ },
+ {
+  "classes": "125",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "126",
+  "image": "books.png",
+  "details": "The self"
+ },
+ {
+  "classes": "127",
+  "image": "books.png",
+  "details": "The unconscious & the subconscious"
+ },
+ {
+  "classes": "128",
+  "image": "books.png",
+  "details": "Humankind"
+ },
+ {
+  "classes": "129",
+  "image": "books.png",
+  "details": "Origin & destiny of individual souls"
+ },
+ {
+  "classes": "130",
+  "image": "books.png",
+  "details": "Parapsychology & occultism"
+ },
+ {
+  "classes": "131",
+  "image": "books.png",
+  "details": "Parapsychological & occult methods"
+ },
+ {
+  "classes": "132",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "133",
+  "image": "books.png",
+  "details": "Specific topics in parapsychology & occultism"
+ },
+ {
+  "classes": "134",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "135",
+  "image": "books.png",
+  "details": "Dreams & mysteries"
+ },
+ {
+  "classes": "136",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "137",
+  "image": "books.png",
+  "details": "Divinatory graphology"
+ },
+ {
+  "classes": "138",
+  "image": "books.png",
+  "details": "Physiognomy"
+ },
+ {
+  "classes": "139",
+  "image": "books.png",
+  "details": "Phrenology"
+ },
+ {
+  "classes": "140",
+  "image": "books.png",
+  "details": "Specific philosophical schools"
+ },
+ {
+  "classes": "141",
+  "image": "books.png",
+  "details": "Idealism & related systems"
+ },
+ {
+  "classes": "142",
+  "image": "books.png",
+  "details": "Critical philosophy"
+ },
+ {
+  "classes": "143",
+  "image": "books.png",
+  "details": "Bergsonism & intuitionism"
+ },
+ {
+  "classes": "144",
+  "image": "books.png",
+  "details": "Humanism & related systems"
+ },
+ {
+  "classes": "145",
+  "image": "books.png",
+  "details": "Sensationalism"
+ },
+ {
+  "classes": "146",
+  "image": "books.png",
+  "details": "Naturalism & related systems"
+ },
+ {
+  "classes": "147",
+  "image": "books.png",
+  "details": "Pantheism & related systems"
+ },
+ {
+  "classes": "148",
+  "image": "books.png",
+  "details": "Eclecticism, liberalism & traditionalism"
+ },
+ {
+  "classes": "149",
+  "image": "books.png",
+  "details": "Other philosophical systems"
+ },
+ {
+  "classes": "150",
+  "image": "books.png",
+  "details": "Psychology"
+ },
+ {
+  "classes": "151",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "152",
+  "image": "books.png",
+  "details": "Perception, movement, emotions & drives"
+ },
+ {
+  "classes": "153",
+  "image": "books.png",
+  "details": "Mental processes & intelligence"
+ },
+ {
+  "classes": "154",
+  "image": "books.png",
+  "details": "Subconscious & altered states"
+ },
+ {
+  "classes": "155",
+  "image": "books.png",
+  "details": "Differential & developmental psychology"
+ },
+ {
+  "classes": "156",
+  "image": "books.png",
+  "details": "Comparative psychology"
+ },
+ {
+  "classes": "157",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "158",
+  "image": "books.png",
+  "details": "Applied psychology"
+ },
+ {
+  "classes": "159",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "160",
+  "image": "books.png",
+  "details": "Logic"
+ },
+ {
+  "classes": "161",
+  "image": "books.png",
+  "details": "Induction"
+ },
+ {
+  "classes": "162",
+  "image": "books.png",
+  "details": "Deduction"
+ },
+ {
+  "classes": "163",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "164",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "165",
+  "image": "books.png",
+  "details": "Fallacies & sources of error"
+ },
+ {
+  "classes": "166",
+  "image": "books.png",
+  "details": "Syllogisms"
+ },
+ {
+  "classes": "167",
+  "image": "books.png",
+  "details": "Hypotheses"
+ },
+ {
+  "classes": "168",
+  "image": "books.png",
+  "details": "Argument & persuasion"
+ },
+ {
+  "classes": "169",
+  "image": "books.png",
+  "details": "Analogy"
+ },
+ {
+  "classes": "170",
+  "image": "books.png",
+  "details": "Ethics"
+ },
+ {
+  "classes": "171",
+  "image": "books.png",
+  "details": "Ethical systems"
+ },
+ {
+  "classes": "172",
+  "image": "books.png",
+  "details": "Political ethics"
+ },
+ {
+  "classes": "173",
+  "image": "books.png",
+  "details": "Ethics of family relationships"
+ },
+ {
+  "classes": "174",
+  "image": "books.png",
+  "details": "Occupational ethics"
+ },
+ {
+  "classes": "175",
+  "image": "books.png",
+  "details": "Ethics of recreation & leisure"
+ },
+ {
+  "classes": "176",
+  "image": "books.png",
+  "details": "Ethics of sex & reproduction"
+ },
+ {
+  "classes": "177",
+  "image": "books.png",
+  "details": "Ethics of social relations"
+ },
+ {
+  "classes": "178",
+  "image": "books.png",
+  "details": "Ethics of consumption"
+ },
+ {
+  "classes": "179",
+  "image": "books.png",
+  "details": "Other ethical norms"
+ },
+ {
+  "classes": "180",
+  "image": "books.png",
+  "details": "Ancient, medieval & eastern philosophy"
+ },
+ {
+  "classes": "181",
+  "image": "books.png",
+  "details": "Eastern philosophy"
+ },
+ {
+  "classes": "182",
+  "image": "books.png",
+  "details": "Pre-Socratic Greek philosophies"
+ },
+ {
+  "classes": "183",
+  "image": "books.png",
+  "details": "Socratic & related philosophies"
+ },
+ {
+  "classes": "184",
+  "image": "books.png",
+  "details": "Platonic philosophy"
+ },
+ {
+  "classes": "185",
+  "image": "books.png",
+  "details": "Aristotelian philosophy"
+ },
+ {
+  "classes": "186",
+  "image": "books.png",
+  "details": "Skeptic & Neoplatonic philosophies"
+ },
+ {
+  "classes": "187",
+  "image": "books.png",
+  "details": "Epicurean philosophy"
+ },
+ {
+  "classes": "188",
+  "image": "books.png",
+  "details": "Stoic philosophy"
+ },
+ {
+  "classes": "189",
+  "image": "books.png",
+  "details": "Medieval western philosophy"
+ },
+ {
+  "classes": "190",
+  "image": "books.png",
+  "details": "Modern western philosophy"
+ },
+ {
+  "classes": "191",
+  "image": "books.png",
+  "details": "Philosophy of United States & Canada"
+ },
+ {
+  "classes": "192",
+  "image": "books.png",
+  "details": "Philosophy of British Isles"
+ },
+ {
+  "classes": "193",
+  "image": "books.png",
+  "details": "Philosophy of Germany & Austria"
+ },
+ {
+  "classes": "194",
+  "image": "books.png",
+  "details": "Philosophy of France"
+ },
+ {
+  "classes": "195",
+  "image": "books.png",
+  "details": "Philosophy of Italy"
+ },
+ {
+  "classes": "196",
+  "image": "books.png",
+  "details": "Philosophy of Spain & Portugal"
+ },
+ {
+  "classes": "197",
+  "image": "books.png",
+  "details": "Philosophy of former Soviet Union"
+ },
+ {
+  "classes": "198",
+  "image": "books.png",
+  "details": "Philosophy of Scandinavia"
+ },
+ {
+  "classes": "199",
+  "image": "books.png",
+  "details": "Philosophy in other geographic areas"
+ },
+ {
+  "classes": "200",
+  "image": "books.png",
+  "details": "Religion"
+ },
+ {
+  "classes": "201",
+  "image": "books.png",
+  "details": "Religious mythology & social theology"
+ },
+ {
+  "classes": "202",
+  "image": "books.png",
+  "details": "Doctrines"
+ },
+ {
+  "classes": "203",
+  "image": "books.png",
+  "details": "Public worship & other practices"
+ },
+ {
+  "classes": "204",
+  "image": "books.png",
+  "details": "Religious experience, life & practice"
+ },
+ {
+  "classes": "205",
+  "image": "books.png",
+  "details": "Religious ethics"
+ },
+ {
+  "classes": "206",
+  "image": "books.png",
+  "details": "Leaders & organization"
+ },
+ {
+  "classes": "207",
+  "image": "books.png",
+  "details": "Missions & religious education"
+ },
+ {
+  "classes": "208",
+  "image": "books.png",
+  "details": "Sources"
+ },
+ {
+  "classes": "209",
+  "image": "books.png",
+  "details": "Sects & reform movements"
+ },
+ {
+  "classes": "210",
+  "image": "books.png",
+  "details": "Philosophy & theory of religion"
+ },
+ {
+  "classes": "211",
+  "image": "books.png",
+  "details": "Concepts of God"
+ },
+ {
+  "classes": "212",
+  "image": "books.png",
+  "details": "Existence, knowability & attributes of God"
+ },
+ {
+  "classes": "213",
+  "image": "books.png",
+  "details": "Creation"
+ },
+ {
+  "classes": "214",
+  "image": "books.png",
+  "details": "Theodicy"
+ },
+ {
+  "classes": "215",
+  "image": "books.png",
+  "details": "Science & religion"
+ },
+ {
+  "classes": "216",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "217",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "218",
+  "image": "books.png",
+  "details": "Humankind"
+ },
+ {
+  "classes": "219",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "220",
+  "image": "books.png",
+  "details": "Bible"
+ },
+ {
+  "classes": "221",
+  "image": "books.png",
+  "details": "Old Testament (Tanakh)"
+ },
+ {
+  "classes": "222",
+  "image": "books.png",
+  "details": "Historical books of Old Testament"
+ },
+ {
+  "classes": "223",
+  "image": "books.png",
+  "details": "Poetic books of Old Testament"
+ },
+ {
+  "classes": "224",
+  "image": "books.png",
+  "details": "Prophetic books of Old Testament"
+ },
+ {
+  "classes": "225",
+  "image": "books.png",
+  "details": "New Testament"
+ },
+ {
+  "classes": "226",
+  "image": "books.png",
+  "details": "Gospels & Acts"
+ },
+ {
+  "classes": "227",
+  "image": "books.png",
+  "details": "Epistles"
+ },
+ {
+  "classes": "228",
+  "image": "books.png",
+  "details": "Revelation (Apocalypse)"
+ },
+ {
+  "classes": "229",
+  "image": "books.png",
+  "details": "Apocrypha & pseudepigrapha"
+ },
+ {
+  "classes": "230",
+  "image": "books.png",
+  "details": "Christianity & Christian theology"
+ },
+ {
+  "classes": "231",
+  "image": "books.png",
+  "details": "God"
+ },
+ {
+  "classes": "232",
+  "image": "books.png",
+  "details": "Jesus Christ & his family"
+ },
+ {
+  "classes": "233",
+  "image": "books.png",
+  "details": "Humankind"
+ },
+ {
+  "classes": "234",
+  "image": "books.png",
+  "details": "Salvation & grace"
+ },
+ {
+  "classes": "235",
+  "image": "books.png",
+  "details": "Spiritual beings"
+ },
+ {
+  "classes": "236",
+  "image": "books.png",
+  "details": "Eschatology"
+ },
+ {
+  "classes": "237",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "238",
+  "image": "books.png",
+  "details": "Creeds & catechisms"
+ },
+ {
+  "classes": "239",
+  "image": "books.png",
+  "details": "Apologetics & polemics"
+ },
+ {
+  "classes": "240",
+  "image": "books.png",
+  "details": "Christian moral & devotional theology"
+ },
+ {
+  "classes": "241",
+  "image": "books.png",
+  "details": "Christian ethics"
+ },
+ {
+  "classes": "242",
+  "image": "books.png",
+  "details": "Devotional literature"
+ },
+ {
+  "classes": "243",
+  "image": "books.png",
+  "details": "Evangelistic writings for individuals"
+ },
+ {
+  "classes": "244",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "245",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "246",
+  "image": "books.png",
+  "details": "Use of art in Christianity"
+ },
+ {
+  "classes": "247",
+  "image": "books.png",
+  "details": "Church furnishings & articles"
+ },
+ {
+  "classes": "248",
+  "image": "books.png",
+  "details": "Christian experience, practice & life"
+ },
+ {
+  "classes": "249",
+  "image": "books.png",
+  "details": "Christian observances in family life"
+ },
+ {
+  "classes": "250",
+  "image": "books.png",
+  "details": "Christian orders & local church"
+ },
+ {
+  "classes": "251",
+  "image": "books.png",
+  "details": "Preaching"
+ },
+ {
+  "classes": "252",
+  "image": "books.png",
+  "details": "Texts of sermons"
+ },
+ {
+  "classes": "253",
+  "image": "books.png",
+  "details": "Pastoral office & work"
+ },
+ {
+  "classes": "254",
+  "image": "books.png",
+  "details": "Parish administration"
+ },
+ {
+  "classes": "255",
+  "image": "books.png",
+  "details": "Religious congregations & orders"
+ },
+ {
+  "classes": "256",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "257",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "258",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "259",
+  "image": "books.png",
+  "details": "Pastoral care of families & kinds of persons"
+ },
+ {
+  "classes": "260",
+  "image": "books.png",
+  "details": "Social & ecclesiastical theology"
+ },
+ {
+  "classes": "261",
+  "image": "books.png",
+  "details": "Social theology"
+ },
+ {
+  "classes": "262",
+  "image": "books.png",
+  "details": "Ecclesiology"
+ },
+ {
+  "classes": "263",
+  "image": "books.png",
+  "details": "Days, times & places of observance"
+ },
+ {
+  "classes": "264",
+  "image": "books.png",
+  "details": "Public worship"
+ },
+ {
+  "classes": "265",
+  "image": "books.png",
+  "details": "Sacraments, other rites & acts"
+ },
+ {
+  "classes": "266",
+  "image": "books.png",
+  "details": "Missions"
+ },
+ {
+  "classes": "267",
+  "image": "books.png",
+  "details": "Associations for religious work"
+ },
+ {
+  "classes": "268",
+  "image": "books.png",
+  "details": "Religious education"
+ },
+ {
+  "classes": "269",
+  "image": "books.png",
+  "details": "Spiritual renewal"
+ },
+ {
+  "classes": "270",
+  "image": "books.png",
+  "details": "History of Christianity & Christian church"
+ },
+ {
+  "classes": "271",
+  "image": "books.png",
+  "details": "Religious orders in church history"
+ },
+ {
+  "classes": "272",
+  "image": "books.png",
+  "details": "Persecutions in church history"
+ },
+ {
+  "classes": "273",
+  "image": "books.png",
+  "details": "Doctrinal controversies & heresies"
+ },
+ {
+  "classes": "274",
+  "image": "books.png",
+  "details": "History of Christianity in Europe"
+ },
+ {
+  "classes": "275",
+  "image": "books.png",
+  "details": "History of Christianity in Asia"
+ },
+ {
+  "classes": "276",
+  "image": "books.png",
+  "details": "History of Christianity in Africa"
+ },
+ {
+  "classes": "277",
+  "image": "books.png",
+  "details": "History of Christianity in North America"
+ },
+ {
+  "classes": "278",
+  "image": "books.png",
+  "details": "History of Christianity in South America"
+ },
+ {
+  "classes": "279",
+  "image": "books.png",
+  "details": "History of Christianity in other areas"
+ },
+ {
+  "classes": "280",
+  "image": "books.png",
+  "details": "Christian denominations & sects"
+ },
+ {
+  "classes": "281",
+  "image": "books.png",
+  "details": "Early church & Eastern churches"
+ },
+ {
+  "classes": "282",
+  "image": "books.png",
+  "details": "Roman Catholic Church"
+ },
+ {
+  "classes": "283",
+  "image": "books.png",
+  "details": "Anglican churches"
+ },
+ {
+  "classes": "284",
+  "image": "books.png",
+  "details": "Protestants of Continental origin"
+ },
+ {
+  "classes": "285",
+  "image": "books.png",
+  "details": "Presbyterian, Reformed & Congregational"
+ },
+ {
+  "classes": "286",
+  "image": "books.png",
+  "details": "Baptist, Disciples of Christ & Adventist"
+ },
+ {
+  "classes": "287",
+  "image": "books.png",
+  "details": "Methodist & related churches"
+ },
+ {
+  "classes": "288",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "289",
+  "image": "books.png",
+  "details": "Other denominations & sects"
+ },
+ {
+  "classes": "290",
+  "image": "books.png",
+  "details": "Other religions"
+ },
+ {
+  "classes": "291",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "292",
+  "image": "books.png",
+  "details": "Greek & Roman religion"
+ },
+ {
+  "classes": "293",
+  "image": "books.png",
+  "details": "Germanic religion"
+ },
+ {
+  "classes": "294",
+  "image": "books.png",
+  "details": "Religions of Indic origin"
+ },
+ {
+  "classes": "295",
+  "image": "books.png",
+  "details": "Zoroastrianism"
+ },
+ {
+  "classes": "296",
+  "image": "books.png",
+  "details": "Judaism"
+ },
+ {
+  "classes": "297",
+  "image": "books.png",
+  "details": "Islam, Babism & Bahai Faith"
+ },
+ {
+  "classes": "298",
+  "image": "books.png",
+  "details": "(Optional number)"
+ },
+ {
+  "classes": "299",
+  "image": "books.png",
+  "details": "Religions not provided for elsewhere"
+ },
+ {
+  "classes": "300",
+  "image": "books.png",
+  "details": "Social sciences"
+ },
+ {
+  "classes": "301",
+  "image": "books.png",
+  "details": "Sociology & anthropology"
+ },
+ {
+  "classes": "302",
+  "image": "books.png",
+  "details": "Social interaction"
+ },
+ {
+  "classes": "303",
+  "image": "books.png",
+  "details": "Social processes"
+ },
+ {
+  "classes": "304",
+  "image": "books.png",
+  "details": "Factors affecting social behavior"
+ },
+ {
+  "classes": "305",
+  "image": "books.png",
+  "details": "Social groups"
+ },
+ {
+  "classes": "306",
+  "image": "books.png",
+  "details": "Culture & institutions"
+ },
+ {
+  "classes": "307",
+  "image": "books.png",
+  "details": "Communities"
+ },
+ {
+  "classes": "308",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "309",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "310",
+  "image": "books.png",
+  "details": "Collections of general statistics"
+ },
+ {
+  "classes": "311",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "312",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "313",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "314",
+  "image": "books.png",
+  "details": "General statistics of Europe"
+ },
+ {
+  "classes": "315",
+  "image": "books.png",
+  "details": "General statistics of Asia"
+ },
+ {
+  "classes": "316",
+  "image": "books.png",
+  "details": "General statistics of Africa"
+ },
+ {
+  "classes": "317",
+  "image": "books.png",
+  "details": "General statistics of North America"
+ },
+ {
+  "classes": "318",
+  "image": "books.png",
+  "details": "General statistics of South America"
+ },
+ {
+  "classes": "319",
+  "image": "books.png",
+  "details": "General statistics of other areas"
+ },
+ {
+  "classes": "320",
+  "image": "books.png",
+  "details": "Political science"
+ },
+ {
+  "classes": "321",
+  "image": "books.png",
+  "details": "Systems of governments & states"
+ },
+ {
+  "classes": "322",
+  "image": "books.png",
+  "details": "Relation of state to organized groups"
+ },
+ {
+  "classes": "323",
+  "image": "books.png",
+  "details": "Civil & political rights"
+ },
+ {
+  "classes": "324",
+  "image": "books.png",
+  "details": "The political process"
+ },
+ {
+  "classes": "325",
+  "image": "books.png",
+  "details": "International migration & colonization"
+ },
+ {
+  "classes": "326",
+  "image": "books.png",
+  "details": "Slavery & emancipation"
+ },
+ {
+  "classes": "327",
+  "image": "books.png",
+  "details": "International relations"
+ },
+ {
+  "classes": "328",
+  "image": "books.png",
+  "details": "The legislative process"
+ },
+ {
+  "classes": "329",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "330",
+  "image": "books.png",
+  "details": "Economics"
+ },
+ {
+  "classes": "331",
+  "image": "books.png",
+  "details": "Labor economics"
+ },
+ {
+  "classes": "332",
+  "image": "books.png",
+  "details": "Financial economics"
+ },
+ {
+  "classes": "333",
+  "image": "books.png",
+  "details": "Economics of land & energy"
+ },
+ {
+  "classes": "334",
+  "image": "books.png",
+  "details": "Cooperatives"
+ },
+ {
+  "classes": "335",
+  "image": "books.png",
+  "details": "Socialism & related systems"
+ },
+ {
+  "classes": "336",
+  "image": "books.png",
+  "details": "Public finance"
+ },
+ {
+  "classes": "337",
+  "image": "books.png",
+  "details": "International economics"
+ },
+ {
+  "classes": "338",
+  "image": "books.png",
+  "details": "Production"
+ },
+ {
+  "classes": "339",
+  "image": "books.png",
+  "details": "Macroeconomics & related topics"
+ },
+ {
+  "classes": "340",
+  "image": "books.png",
+  "details": "Law"
+ },
+ {
+  "classes": "341",
+  "image": "books.png",
+  "details": "Law of nations"
+ },
+ {
+  "classes": "342",
+  "image": "books.png",
+  "details": "Constitutional & administrative law"
+ },
+ {
+  "classes": "343",
+  "image": "books.png",
+  "details": "Military, tax, trade & industrial law"
+ },
+ {
+  "classes": "344",
+  "image": "books.png",
+  "details": "Labor, social, education & cultural law"
+ },
+ {
+  "classes": "345",
+  "image": "books.png",
+  "details": "Criminal law"
+ },
+ {
+  "classes": "346",
+  "image": "books.png",
+  "details": "Private law"
+ },
+ {
+  "classes": "347",
+  "image": "books.png",
+  "details": "Civil procedure & courts"
+ },
+ {
+  "classes": "348",
+  "image": "books.png",
+  "details": "Laws, regulations & cases"
+ },
+ {
+  "classes": "349",
+  "image": "books.png",
+  "details": "Law of specific jurisdictions & areas"
+ },
+ {
+  "classes": "350",
+  "image": "books.png",
+  "details": "Public administration & military science"
+ },
+ {
+  "classes": "351",
+  "image": "books.png",
+  "details": "Public administration"
+ },
+ {
+  "classes": "352",
+  "image": "books.png",
+  "details": "General considerations of public administration"
+ },
+ {
+  "classes": "353",
+  "image": "books.png",
+  "details": "Specific fields of public administration"
+ },
+ {
+  "classes": "354",
+  "image": "books.png",
+  "details": "Administration of economy & environment"
+ },
+ {
+  "classes": "355",
+  "image": "books.png",
+  "details": "Military science"
+ },
+ {
+  "classes": "356",
+  "image": "books.png",
+  "details": "Infantry forces & warfare"
+ },
+ {
+  "classes": "357",
+  "image": "books.png",
+  "details": "Mounted forces & warfare"
+ },
+ {
+  "classes": "358",
+  "image": "books.png",
+  "details": "Air & other specialized forces"
+ },
+ {
+  "classes": "359",
+  "image": "books.png",
+  "details": "Sea forces & warfare"
+ },
+ {
+  "classes": "360",
+  "image": "books.png",
+  "details": "Social problems & services; associations"
+ },
+ {
+  "classes": "361",
+  "image": "books.png",
+  "details": "Social problems & social welfare in general"
+ },
+ {
+  "classes": "362",
+  "image": "books.png",
+  "details": "Social welfare problems & services"
+ },
+ {
+  "classes": "363",
+  "image": "books.png",
+  "details": "Other social problems & services"
+ },
+ {
+  "classes": "364",
+  "image": "books.png",
+  "details": "Criminology"
+ },
+ {
+  "classes": "365",
+  "image": "books.png",
+  "details": "Penal & related institutions"
+ },
+ {
+  "classes": "366",
+  "image": "books.png",
+  "details": "Associations"
+ },
+ {
+  "classes": "367",
+  "image": "books.png",
+  "details": "General clubs"
+ },
+ {
+  "classes": "368",
+  "image": "books.png",
+  "details": "Insurance"
+ },
+ {
+  "classes": "369",
+  "image": "books.png",
+  "details": "Miscellaneous kinds of associations"
+ },
+ {
+  "classes": "370",
+  "image": "books.png",
+  "details": "Education"
+ },
+ {
+  "classes": "371",
+  "image": "books.png",
+  "details": "Schools & their activities; special education"
+ },
+ {
+  "classes": "372",
+  "image": "books.png",
+  "details": "Elementary education"
+ },
+ {
+  "classes": "373",
+  "image": "books.png",
+  "details": "Secondary education"
+ },
+ {
+  "classes": "374",
+  "image": "books.png",
+  "details": "Adult education"
+ },
+ {
+  "classes": "375",
+  "image": "books.png",
+  "details": "Curricula"
+ },
+ {
+  "classes": "376",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "377",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "378",
+  "image": "books.png",
+  "details": "Higher education"
+ },
+ {
+  "classes": "379",
+  "image": "books.png",
+  "details": "Public policy issues in education"
+ },
+ {
+  "classes": "380",
+  "image": "books.png",
+  "details": "Commerce, communications & transportation"
+ },
+ {
+  "classes": "381",
+  "image": "books.png",
+  "details": "Commerce"
+ },
+ {
+  "classes": "382",
+  "image": "books.png",
+  "details": "International commerce"
+ },
+ {
+  "classes": "383",
+  "image": "books.png",
+  "details": "Postal communication"
+ },
+ {
+  "classes": "384",
+  "image": "books.png",
+  "details": "Communications; telecommunication"
+ },
+ {
+  "classes": "385",
+  "image": "books.png",
+  "details": "Railroad transportation"
+ },
+ {
+  "classes": "386",
+  "image": "books.png",
+  "details": "Inland waterway & ferry transportation"
+ },
+ {
+  "classes": "387",
+  "image": "books.png",
+  "details": "Water, air & space transportation"
+ },
+ {
+  "classes": "388",
+  "image": "books.png",
+  "details": "Transportation; ground transportation"
+ },
+ {
+  "classes": "389",
+  "image": "books.png",
+  "details": "Metrology & standardization"
+ },
+ {
+  "classes": "390",
+  "image": "books.png",
+  "details": "Customs, etiquette & folklore"
+ },
+ {
+  "classes": "391",
+  "image": "books.png",
+  "details": "Costume & personal appearance"
+ },
+ {
+  "classes": "392",
+  "image": "books.png",
+  "details": "Customs of life cycle & domestic life"
+ },
+ {
+  "classes": "393",
+  "image": "books.png",
+  "details": "Death customs"
+ },
+ {
+  "classes": "394",
+  "image": "books.png",
+  "details": "General customs"
+ },
+ {
+  "classes": "395",
+  "image": "books.png",
+  "details": "Etiquette (Manners)"
+ },
+ {
+  "classes": "396",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "397",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "398",
+  "image": "books.png",
+  "details": "Folklore"
+ },
+ {
+  "classes": "399",
+  "image": "books.png",
+  "details": "Customs of war & diplomacy"
+ },
+ {
+  "classes": "400",
+  "image": "books.png",
+  "details": "Language"
+ },
+ {
+  "classes": "401",
+  "image": "books.png",
+  "details": "Philosophy & theory"
+ },
+ {
+  "classes": "402",
+  "image": "books.png",
+  "details": "Miscellany"
+ },
+ {
+  "classes": "403",
+  "image": "books.png",
+  "details": "Dictionaries & encyclopedias"
+ },
+ {
+  "classes": "404",
+  "image": "books.png",
+  "details": "Special topics"
+ },
+ {
+  "classes": "405",
+  "image": "books.png",
+  "details": "Serial publications"
+ },
+ {
+  "classes": "406",
+  "image": "books.png",
+  "details": "Organizations & management"
+ },
+ {
+  "classes": "407",
+  "image": "books.png",
+  "details": "Education, research & related topics"
+ },
+ {
+  "classes": "408",
+  "image": "books.png",
+  "details": "Kinds of persons treatment"
+ },
+ {
+  "classes": "409",
+  "image": "books.png",
+  "details": "Geographic & persons treatment"
+ },
+ {
+  "classes": "410",
+  "image": "books.png",
+  "details": "Linguistics"
+ },
+ {
+  "classes": "411",
+  "image": "books.png",
+  "details": "Writing systems"
+ },
+ {
+  "classes": "412",
+  "image": "books.png",
+  "details": "Etymology"
+ },
+ {
+  "classes": "413",
+  "image": "books.png",
+  "details": "Dictionaries"
+ },
+ {
+  "classes": "414",
+  "image": "books.png",
+  "details": "Phonology & phonetics"
+ },
+ {
+  "classes": "415",
+  "image": "books.png",
+  "details": "Grammar"
+ },
+ {
+  "classes": "416",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "417",
+  "image": "books.png",
+  "details": "Dialectology & historical linguistics"
+ },
+ {
+  "classes": "418",
+  "image": "books.png",
+  "details": "Standard usage & applied linguistics"
+ },
+ {
+  "classes": "419",
+  "image": "books.png",
+  "details": "Sign languages"
+ },
+ {
+  "classes": "420",
+  "image": "books.png",
+  "details": "English & Old English"
+ },
+ {
+  "classes": "421",
+  "image": "books.png",
+  "details": "English writing system & phonology"
+ },
+ {
+  "classes": "422",
+  "image": "books.png",
+  "details": "English etymology"
+ },
+ {
+  "classes": "423",
+  "image": "books.png",
+  "details": "English dictionaries"
+ },
+ {
+  "classes": "424",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "425",
+  "image": "books.png",
+  "details": "English grammar"
+ },
+ {
+  "classes": "426",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "427",
+  "image": "books.png",
+  "details": "English language variations"
+ },
+ {
+  "classes": "428",
+  "image": "books.png",
+  "details": "Standard English usage"
+ },
+ {
+  "classes": "429",
+  "image": "books.png",
+  "details": "Old English (Anglo-Saxon)"
+ },
+ {
+  "classes": "430",
+  "image": "books.png",
+  "details": "Germanic languages; German"
+ },
+ {
+  "classes": "431",
+  "image": "books.png",
+  "details": "German writing systems & phonology"
+ },
+ {
+  "classes": "432",
+  "image": "books.png",
+  "details": "German etymology"
+ },
+ {
+  "classes": "433",
+  "image": "books.png",
+  "details": "German dictionaries"
+ },
+ {
+  "classes": "434",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "435",
+  "image": "books.png",
+  "details": "German grammar"
+ },
+ {
+  "classes": "436",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "437",
+  "image": "books.png",
+  "details": "German language variations"
+ },
+ {
+  "classes": "438",
+  "image": "books.png",
+  "details": "Standard German usage"
+ },
+ {
+  "classes": "439",
+  "image": "books.png",
+  "details": "Other Germanic languages"
+ },
+ {
+  "classes": "440",
+  "image": "books.png",
+  "details": "Romance languages; French"
+ },
+ {
+  "classes": "441",
+  "image": "books.png",
+  "details": "French writing systems & phonology"
+ },
+ {
+  "classes": "442",
+  "image": "books.png",
+  "details": "French etymology"
+ },
+ {
+  "classes": "443",
+  "image": "books.png",
+  "details": "French dictionaries"
+ },
+ {
+  "classes": "444",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "445",
+  "image": "books.png",
+  "details": "French grammar"
+ },
+ {
+  "classes": "446",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "447",
+  "image": "books.png",
+  "details": "French language variations"
+ },
+ {
+  "classes": "448",
+  "image": "books.png",
+  "details": "Standard French usage"
+ },
+ {
+  "classes": "449",
+  "image": "books.png",
+  "details": "Occitan & Catalan"
+ },
+ {
+  "classes": "450",
+  "image": "books.png",
+  "details": "Italian, Romanian & related languages"
+ },
+ {
+  "classes": "451",
+  "image": "books.png",
+  "details": "Italian writing systems & phonology"
+ },
+ {
+  "classes": "452",
+  "image": "books.png",
+  "details": "Italian etymology"
+ },
+ {
+  "classes": "453",
+  "image": "books.png",
+  "details": "Italian dictionaries"
+ },
+ {
+  "classes": "454",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "455",
+  "image": "books.png",
+  "details": "Italian grammar"
+ },
+ {
+  "classes": "456",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "457",
+  "image": "books.png",
+  "details": "Italian language variations"
+ },
+ {
+  "classes": "458",
+  "image": "books.png",
+  "details": "Standard Italian usage"
+ },
+ {
+  "classes": "459",
+  "image": "books.png",
+  "details": "Romanian & related languages"
+ },
+ {
+  "classes": "460",
+  "image": "books.png",
+  "details": "Spanish & Portuguese languages"
+ },
+ {
+  "classes": "461",
+  "image": "books.png",
+  "details": "Spanish writing systems & phonology"
+ },
+ {
+  "classes": "462",
+  "image": "books.png",
+  "details": "Spanish etymology"
+ },
+ {
+  "classes": "463",
+  "image": "books.png",
+  "details": "Spanish dictionaries"
+ },
+ {
+  "classes": "464",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "465",
+  "image": "books.png",
+  "details": "Spanish grammar"
+ },
+ {
+  "classes": "466",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "467",
+  "image": "books.png",
+  "details": "Spanish language variations"
+ },
+ {
+  "classes": "468",
+  "image": "books.png",
+  "details": "Standard Spanish usage"
+ },
+ {
+  "classes": "469",
+  "image": "books.png",
+  "details": "Portuguese"
+ },
+ {
+  "classes": "470",
+  "image": "books.png",
+  "details": "Italic languages; Latin"
+ },
+ {
+  "classes": "471",
+  "image": "books.png",
+  "details": "Classical Latin writing & phonology"
+ },
+ {
+  "classes": "472",
+  "image": "books.png",
+  "details": "Classical Latin etymology"
+ },
+ {
+  "classes": "473",
+  "image": "books.png",
+  "details": "Classical Latin dictionaries"
+ },
+ {
+  "classes": "474",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "475",
+  "image": "books.png",
+  "details": "Classical Latin grammar"
+ },
+ {
+  "classes": "476",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "477",
+  "image": "books.png",
+  "details": "Old, postclassical & Vulgar Latin"
+ },
+ {
+  "classes": "478",
+  "image": "books.png",
+  "details": "Classical Latin usage"
+ },
+ {
+  "classes": "479",
+  "image": "books.png",
+  "details": "Other Italic languages"
+ },
+ {
+  "classes": "480",
+  "image": "books.png",
+  "details": "Hellenic languages; classical Greek"
+ },
+ {
+  "classes": "481",
+  "image": "books.png",
+  "details": "Classical Greek writing & phonology"
+ },
+ {
+  "classes": "482",
+  "image": "books.png",
+  "details": "Classical Greek etymology"
+ },
+ {
+  "classes": "483",
+  "image": "books.png",
+  "details": "Classical Greek dictionaries"
+ },
+ {
+  "classes": "484",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "485",
+  "image": "books.png",
+  "details": "Classical Greek grammar"
+ },
+ {
+  "classes": "486",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "487",
+  "image": "books.png",
+  "details": "Preclassical & postclassical Greek"
+ },
+ {
+  "classes": "488",
+  "image": "books.png",
+  "details": "Classical Greek usage"
+ },
+ {
+  "classes": "489",
+  "image": "books.png",
+  "details": "Other Hellenic languages"
+ },
+ {
+  "classes": "490",
+  "image": "books.png",
+  "details": "Other languages"
+ },
+ {
+  "classes": "491",
+  "image": "books.png",
+  "details": "East Indo-European & Celtic languages"
+ },
+ {
+  "classes": "492",
+  "image": "books.png",
+  "details": "Afro-Asiatic languages; Semitic languages"
+ },
+ {
+  "classes": "493",
+  "image": "books.png",
+  "details": "Non-Semitic Afro-Asiatic languages"
+ },
+ {
+  "classes": "494",
+  "image": "books.png",
+  "details": "Altaic, Uralic, Hyperborean & Dravidian"
+ },
+ {
+  "classes": "495",
+  "image": "books.png",
+  "details": "Languages of East & Southeast Asia"
+ },
+ {
+  "classes": "496",
+  "image": "books.png",
+  "details": "African languages"
+ },
+ {
+  "classes": "497",
+  "image": "books.png",
+  "details": "North American native languages"
+ },
+ {
+  "classes": "498",
+  "image": "books.png",
+  "details": "South American native languages"
+ },
+ {
+  "classes": "499",
+  "image": "books.png",
+  "details": "Austronesian & other languages"
+ },
+ {
+  "classes": "500",
+  "image": "books.png",
+  "details": "Natural sciences & mathematics"
+ },
+ {
+  "classes": "501",
+  "image": "books.png",
+  "details": "Philosophy & theory"
+ },
+ {
+  "classes": "502",
+  "image": "books.png",
+  "details": "Miscellany"
+ },
+ {
+  "classes": "503",
+  "image": "books.png",
+  "details": "Dictionaries & encyclopedias"
+ },
+ {
+  "classes": "504",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "505",
+  "image": "books.png",
+  "details": "Serial publications"
+ },
+ {
+  "classes": "506",
+  "image": "books.png",
+  "details": "Organizations & management"
+ },
+ {
+  "classes": "507",
+  "image": "books.png",
+  "details": "Education, research & related topics"
+ },
+ {
+  "classes": "508",
+  "image": "books.png",
+  "details": "Natural history"
+ },
+ {
+  "classes": "509",
+  "image": "books.png",
+  "details": "Historical, geographic & persons treatment"
+ },
+ {
+  "classes": "510",
+  "image": "books.png",
+  "details": "Mathematics"
+ },
+ {
+  "classes": "511",
+  "image": "books.png",
+  "details": "General principles of mathematics"
+ },
+ {
+  "classes": "512",
+  "image": "books.png",
+  "details": "Algebra"
+ },
+ {
+  "classes": "513",
+  "image": "books.png",
+  "details": "Arithmetic"
+ },
+ {
+  "classes": "514",
+  "image": "books.png",
+  "details": "Topology"
+ },
+ {
+  "classes": "515",
+  "image": "books.png",
+  "details": "Analysis"
+ },
+ {
+  "classes": "516",
+  "image": "books.png",
+  "details": "Geometry"
+ },
+ {
+  "classes": "517",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "518",
+  "image": "books.png",
+  "details": "Numerical analysis"
+ },
+ {
+  "classes": "519",
+  "image": "books.png",
+  "details": "Probabilities & applied mathematics"
+ },
+ {
+  "classes": "520",
+  "image": "books.png",
+  "details": "Astronomy & allied sciences"
+ },
+ {
+  "classes": "521",
+  "image": "books.png",
+  "details": "Celestial mechanics"
+ },
+ {
+  "classes": "522",
+  "image": "books.png",
+  "details": "Techniques, equipment & materials"
+ },
+ {
+  "classes": "523",
+  "image": "books.png",
+  "details": "Specific celestial bodies & phenomena"
+ },
+ {
+  "classes": "524",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "525",
+  "image": "books.png",
+  "details": "Earth (Astronomical geography)"
+ },
+ {
+  "classes": "526",
+  "image": "books.png",
+  "details": "Mathematical geography"
+ },
+ {
+  "classes": "527",
+  "image": "books.png",
+  "details": "Celestial navigation"
+ },
+ {
+  "classes": "528",
+  "image": "books.png",
+  "details": "Ephemerides"
+ },
+ {
+  "classes": "529",
+  "image": "books.png",
+  "details": "Chronology"
+ },
+ {
+  "classes": "530",
+  "image": "books.png",
+  "details": "Physics"
+ },
+ {
+  "classes": "531",
+  "image": "books.png",
+  "details": "Classical mechanics; solid mechanics"
+ },
+ {
+  "classes": "532",
+  "image": "books.png",
+  "details": "Fluid mechanics; liquid mechanics"
+ },
+ {
+  "classes": "533",
+  "image": "books.png",
+  "details": "Gas mechanics"
+ },
+ {
+  "classes": "534",
+  "image": "books.png",
+  "details": "Sound & related vibrations"
+ },
+ {
+  "classes": "535",
+  "image": "books.png",
+  "details": "Light & infrared & ultraviolet phenomena"
+ },
+ {
+  "classes": "536",
+  "image": "books.png",
+  "details": "Heat"
+ },
+ {
+  "classes": "537",
+  "image": "books.png",
+  "details": "Electricity & electronics"
+ },
+ {
+  "classes": "538",
+  "image": "books.png",
+  "details": "Magnetism"
+ },
+ {
+  "classes": "539",
+  "image": "books.png",
+  "details": "Modern physics"
+ },
+ {
+  "classes": "540",
+  "image": "books.png",
+  "details": "Chemistry & allied sciences"
+ },
+ {
+  "classes": "541",
+  "image": "books.png",
+  "details": "Physical chemistry"
+ },
+ {
+  "classes": "542",
+  "image": "books.png",
+  "details": "Techniques, equipment & materials"
+ },
+ {
+  "classes": "543",
+  "image": "books.png",
+  "details": "Analytical chemistry"
+ },
+ {
+  "classes": "544",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "545",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "546",
+  "image": "books.png",
+  "details": "Inorganic chemistry"
+ },
+ {
+  "classes": "547",
+  "image": "books.png",
+  "details": "Organic chemistry"
+ },
+ {
+  "classes": "548",
+  "image": "books.png",
+  "details": "Crystallography"
+ },
+ {
+  "classes": "549",
+  "image": "books.png",
+  "details": "Mineralogy"
+ },
+ {
+  "classes": "550",
+  "image": "books.png",
+  "details": "Earth sciences"
+ },
+ {
+  "classes": "551",
+  "image": "books.png",
+  "details": "Geology, hydrology & meteorology"
+ },
+ {
+  "classes": "552",
+  "image": "books.png",
+  "details": "Petrology"
+ },
+ {
+  "classes": "553",
+  "image": "books.png",
+  "details": "Economic geology"
+ },
+ {
+  "classes": "554",
+  "image": "books.png",
+  "details": "Earth sciences of Europe"
+ },
+ {
+  "classes": "555",
+  "image": "books.png",
+  "details": "Earth sciences of Asia"
+ },
+ {
+  "classes": "556",
+  "image": "books.png",
+  "details": "Earth sciences of Africa"
+ },
+ {
+  "classes": "557",
+  "image": "books.png",
+  "details": "Earth sciences of North America"
+ },
+ {
+  "classes": "558",
+  "image": "books.png",
+  "details": "Earth sciences of South America"
+ },
+ {
+  "classes": "559",
+  "image": "books.png",
+  "details": "Earth sciences of other areas"
+ },
+ {
+  "classes": "560",
+  "image": "books.png",
+  "details": "Paleontology; paleozoology"
+ },
+ {
+  "classes": "561",
+  "image": "books.png",
+  "details": "Paleobotany; fossil microorganisms"
+ },
+ {
+  "classes": "562",
+  "image": "books.png",
+  "details": "Fossil invertebrates"
+ },
+ {
+  "classes": "563",
+  "image": "books.png",
+  "details": "Fossil marine & seashore invertebrates"
+ },
+ {
+  "classes": "564",
+  "image": "books.png",
+  "details": "Fossil mollusks & molluscoids"
+ },
+ {
+  "classes": "565",
+  "image": "books.png",
+  "details": "Fossil arthropods"
+ },
+ {
+  "classes": "566",
+  "image": "books.png",
+  "details": "Fossil chordates"
+ },
+ {
+  "classes": "567",
+  "image": "books.png",
+  "details": "Fossil cold-blooded vertebrates; fossil fishes"
+ },
+ {
+  "classes": "568",
+  "image": "books.png",
+  "details": "Fossil birds"
+ },
+ {
+  "classes": "569",
+  "image": "books.png",
+  "details": "Fossil mammals"
+ },
+ {
+  "classes": "570",
+  "image": "books.png",
+  "details": "Life sciences; biology"
+ },
+ {
+  "classes": "571",
+  "image": "books.png",
+  "details": "Physiology & related subjects"
+ },
+ {
+  "classes": "572",
+  "image": "books.png",
+  "details": "Biochemistry"
+ },
+ {
+  "classes": "573",
+  "image": "books.png",
+  "details": "Specific physiological systems in animals"
+ },
+ {
+  "classes": "574",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "575",
+  "image": "books.png",
+  "details": "Specific parts of & systems in plants"
+ },
+ {
+  "classes": "576",
+  "image": "books.png",
+  "details": "Genetics & evolution"
+ },
+ {
+  "classes": "577",
+  "image": "books.png",
+  "details": "Ecology"
+ },
+ {
+  "classes": "578",
+  "image": "books.png",
+  "details": "Natural history of organisms"
+ },
+ {
+  "classes": "579",
+  "image": "books.png",
+  "details": "Microorganisms, fungi & algae"
+ },
+ {
+  "classes": "580",
+  "image": "books.png",
+  "details": "Plants (Botany)"
+ },
+ {
+  "classes": "581",
+  "image": "books.png",
+  "details": "Specific topics in natural history"
+ },
+ {
+  "classes": "582",
+  "image": "books.png",
+  "details": "Plants noted for characteristics & flowers"
+ },
+ {
+  "classes": "583",
+  "image": "books.png",
+  "details": "Dicotyledons"
+ },
+ {
+  "classes": "584",
+  "image": "books.png",
+  "details": "Monocotyledons"
+ },
+ {
+  "classes": "585",
+  "image": "books.png",
+  "details": "Gymnosperms; conifers"
+ },
+ {
+  "classes": "586",
+  "image": "books.png",
+  "details": "Seedless plants"
+ },
+ {
+  "classes": "587",
+  "image": "books.png",
+  "details": "Vascular seedless plants"
+ },
+ {
+  "classes": "588",
+  "image": "books.png",
+  "details": "Bryophytes"
+ },
+ {
+  "classes": "589",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "590",
+  "image": "books.png",
+  "details": "Animals (Zoology)"
+ },
+ {
+  "classes": "591",
+  "image": "books.png",
+  "details": "Specific topics in natural history"
+ },
+ {
+  "classes": "592",
+  "image": "books.png",
+  "details": "Invertebrates"
+ },
+ {
+  "classes": "593",
+  "image": "books.png",
+  "details": "Marine & seashore invertebrates"
+ },
+ {
+  "classes": "594",
+  "image": "books.png",
+  "details": "Mollusks & molluscoids"
+ },
+ {
+  "classes": "595",
+  "image": "books.png",
+  "details": "Arthropods"
+ },
+ {
+  "classes": "596",
+  "image": "books.png",
+  "details": "Chordates"
+ },
+ {
+  "classes": "597",
+  "image": "books.png",
+  "details": "Cold-blooded vertebrates; fishes"
+ },
+ {
+  "classes": "598",
+  "image": "books.png",
+  "details": "Birds"
+ },
+ {
+  "classes": "599",
+  "image": "books.png",
+  "details": "Mammals"
+ },
+ {
+  "classes": "600",
+  "image": "books.png",
+  "details": "Technology"
+ },
+ {
+  "classes": "601",
+  "image": "books.png",
+  "details": "Philosophy & theory"
+ },
+ {
+  "classes": "602",
+  "image": "books.png",
+  "details": "Miscellany"
+ },
+ {
+  "classes": "603",
+  "image": "books.png",
+  "details": "Dictionaries & encyclopedias"
+ },
+ {
+  "classes": "604",
+  "image": "books.png",
+  "details": "Special topics"
+ },
+ {
+  "classes": "605",
+  "image": "books.png",
+  "details": "Serial publications"
+ },
+ {
+  "classes": "606",
+  "image": "books.png",
+  "details": "Organizations"
+ },
+ {
+  "classes": "607",
+  "image": "books.png",
+  "details": "Education, research & related topics"
+ },
+ {
+  "classes": "608",
+  "image": "books.png",
+  "details": "Inventions & patents"
+ },
+ {
+  "classes": "609",
+  "image": "books.png",
+  "details": "Historical, geographic & persons treatment"
+ },
+ {
+  "classes": "610",
+  "image": "books.png",
+  "details": "Medicine & health"
+ },
+ {
+  "classes": "611",
+  "image": "books.png",
+  "details": "Human anatomy, cytology & histology"
+ },
+ {
+  "classes": "612",
+  "image": "books.png",
+  "details": "Human physiology"
+ },
+ {
+  "classes": "613",
+  "image": "books.png",
+  "details": "Personal health & safety"
+ },
+ {
+  "classes": "614",
+  "image": "books.png",
+  "details": "Incidence & prevention of disease"
+ },
+ {
+  "classes": "615",
+  "image": "books.png",
+  "details": "Pharmacology & therapeutics"
+ },
+ {
+  "classes": "616",
+  "image": "books.png",
+  "details": "Diseases"
+ },
+ {
+  "classes": "617",
+  "image": "books.png",
+  "details": "Surgery & related medical specialties"
+ },
+ {
+  "classes": "618",
+  "image": "books.png",
+  "details": "Gynecology, obstetrics, pediatrics & geriatrics"
+ },
+ {
+  "classes": "619",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "620",
+  "image": "books.png",
+  "details": "Engineering & allied operations"
+ },
+ {
+  "classes": "621",
+  "image": "books.png",
+  "details": "Applied physics"
+ },
+ {
+  "classes": "622",
+  "image": "books.png",
+  "details": "Mining & related operations"
+ },
+ {
+  "classes": "623",
+  "image": "books.png",
+  "details": "Military & nautical engineering"
+ },
+ {
+  "classes": "624",
+  "image": "books.png",
+  "details": "Civil engineering"
+ },
+ {
+  "classes": "625",
+  "image": "books.png",
+  "details": "Engineering of railroads & roads"
+ },
+ {
+  "classes": "626",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "627",
+  "image": "books.png",
+  "details": "Hydraulic engineering"
+ },
+ {
+  "classes": "628",
+  "image": "books.png",
+  "details": "Sanitary & municipal engineering"
+ },
+ {
+  "classes": "629",
+  "image": "books.png",
+  "details": "Other branches of engineering"
+ },
+ {
+  "classes": "630",
+  "image": "books.png",
+  "details": "Agriculture & related technologies"
+ },
+ {
+  "classes": "631",
+  "image": "books.png",
+  "details": "Techniques, equipment & materials"
+ },
+ {
+  "classes": "632",
+  "image": "books.png",
+  "details": "Plant injuries, diseases & pests"
+ },
+ {
+  "classes": "633",
+  "image": "books.png",
+  "details": "Field & plantation crops"
+ },
+ {
+  "classes": "634",
+  "image": "books.png",
+  "details": "Orchards, fruits & forestry"
+ },
+ {
+  "classes": "635",
+  "image": "books.png",
+  "details": "Garden crops (Horticulture)"
+ },
+ {
+  "classes": "636",
+  "image": "books.png",
+  "details": "Animal husbandry"
+ },
+ {
+  "classes": "637",
+  "image": "books.png",
+  "details": "Processing dairy & related products"
+ },
+ {
+  "classes": "638",
+  "image": "books.png",
+  "details": "Insect culture"
+ },
+ {
+  "classes": "639",
+  "image": "books.png",
+  "details": "Hunting, fishing & conservation"
+ },
+ {
+  "classes": "640",
+  "image": "books.png",
+  "details": "Home & family management"
+ },
+ {
+  "classes": "641",
+  "image": "books.png",
+  "details": "Food & drink"
+ },
+ {
+  "classes": "642",
+  "image": "books.png",
+  "details": "Meals & table service"
+ },
+ {
+  "classes": "643",
+  "image": "books.png",
+  "details": "Housing & household equipment"
+ },
+ {
+  "classes": "644",
+  "image": "books.png",
+  "details": "Household utilities"
+ },
+ {
+  "classes": "645",
+  "image": "books.png",
+  "details": "Household furnishings"
+ },
+ {
+  "classes": "646",
+  "image": "books.png",
+  "details": "Sewing, clothing & personal living"
+ },
+ {
+  "classes": "647",
+  "image": "books.png",
+  "details": "Management of public households"
+ },
+ {
+  "classes": "648",
+  "image": "books.png",
+  "details": "Housekeeping"
+ },
+ {
+  "classes": "649",
+  "image": "books.png",
+  "details": "Child rearing & home care of persons"
+ },
+ {
+  "classes": "650",
+  "image": "books.png",
+  "details": "Management & auxiliary services"
+ },
+ {
+  "classes": "651",
+  "image": "books.png",
+  "details": "Office services"
+ },
+ {
+  "classes": "652",
+  "image": "books.png",
+  "details": "Processes of written communication"
+ },
+ {
+  "classes": "653",
+  "image": "books.png",
+  "details": "Shorthand"
+ },
+ {
+  "classes": "654",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "655",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "656",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "657",
+  "image": "books.png",
+  "details": "Accounting"
+ },
+ {
+  "classes": "658",
+  "image": "books.png",
+  "details": "General management"
+ },
+ {
+  "classes": "659",
+  "image": "books.png",
+  "details": "Advertising & public relations"
+ },
+ {
+  "classes": "660",
+  "image": "books.png",
+  "details": "Chemical engineering"
+ },
+ {
+  "classes": "661",
+  "image": "books.png",
+  "details": "Industrial chemicals"
+ },
+ {
+  "classes": "662",
+  "image": "books.png",
+  "details": "Explosives, fuels & related products"
+ },
+ {
+  "classes": "663",
+  "image": "books.png",
+  "details": "Beverage technology"
+ },
+ {
+  "classes": "664",
+  "image": "books.png",
+  "details": "Food technology"
+ },
+ {
+  "classes": "665",
+  "image": "books.png",
+  "details": "Industrial oils, fats, waxes & gases"
+ },
+ {
+  "classes": "666",
+  "image": "books.png",
+  "details": "Ceramic & allied technologies"
+ },
+ {
+  "classes": "667",
+  "image": "books.png",
+  "details": "Cleaning, color & coating technologies"
+ },
+ {
+  "classes": "668",
+  "image": "books.png",
+  "details": "Technology of other organic products"
+ },
+ {
+  "classes": "669",
+  "image": "books.png",
+  "details": "Metallurgy"
+ },
+ {
+  "classes": "670",
+  "image": "books.png",
+  "details": "Manufacturing"
+ },
+ {
+  "classes": "671",
+  "image": "books.png",
+  "details": "Metalworking & primary metal products"
+ },
+ {
+  "classes": "672",
+  "image": "books.png",
+  "details": "Iron, steel & other iron alloys"
+ },
+ {
+  "classes": "673",
+  "image": "books.png",
+  "details": "Nonferrous metals"
+ },
+ {
+  "classes": "674",
+  "image": "books.png",
+  "details": "Lumber processing, wood products & cork"
+ },
+ {
+  "classes": "675",
+  "image": "books.png",
+  "details": "Leather & fur processing"
+ },
+ {
+  "classes": "676",
+  "image": "books.png",
+  "details": "Pulp & paper technology"
+ },
+ {
+  "classes": "677",
+  "image": "books.png",
+  "details": "Textiles"
+ },
+ {
+  "classes": "678",
+  "image": "books.png",
+  "details": "Elastomers & elastomer products"
+ },
+ {
+  "classes": "679",
+  "image": "books.png",
+  "details": "Other products of specific materials"
+ },
+ {
+  "classes": "680",
+  "image": "books.png",
+  "details": "Manufacture for specific uses"
+ },
+ {
+  "classes": "681",
+  "image": "books.png",
+  "details": "Precision instruments & other devices"
+ },
+ {
+  "classes": "682",
+  "image": "books.png",
+  "details": "Small forge work (Blacksmithing)"
+ },
+ {
+  "classes": "683",
+  "image": "books.png",
+  "details": "Hardware & household appliances"
+ },
+ {
+  "classes": "684",
+  "image": "books.png",
+  "details": "Furnishings & home workshops"
+ },
+ {
+  "classes": "685",
+  "image": "books.png",
+  "details": "Leather, fur goods & related products"
+ },
+ {
+  "classes": "686",
+  "image": "books.png",
+  "details": "Printing & related activities"
+ },
+ {
+  "classes": "687",
+  "image": "books.png",
+  "details": "Clothing & accessories"
+ },
+ {
+  "classes": "688",
+  "image": "books.png",
+  "details": "Other final products & packaging"
+ },
+ {
+  "classes": "689",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "690",
+  "image": "books.png",
+  "details": "Buildings"
+ },
+ {
+  "classes": "691",
+  "image": "books.png",
+  "details": "Building materials"
+ },
+ {
+  "classes": "692",
+  "image": "books.png",
+  "details": "Auxiliary construction practices"
+ },
+ {
+  "classes": "693",
+  "image": "books.png",
+  "details": "Specific materials & purposes"
+ },
+ {
+  "classes": "694",
+  "image": "books.png",
+  "details": "Wood construction & carpentry"
+ },
+ {
+  "classes": "695",
+  "image": "books.png",
+  "details": "Roof covering"
+ },
+ {
+  "classes": "696",
+  "image": "books.png",
+  "details": "Utilities"
+ },
+ {
+  "classes": "697",
+  "image": "books.png",
+  "details": "Heating, ventilating & air-conditioning"
+ },
+ {
+  "classes": "698",
+  "image": "books.png",
+  "details": "Detail finishing"
+ },
+ {
+  "classes": "699",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "700",
+  "image": "books.png",
+  "details": "The arts; fine & decorative arts"
+ },
+ {
+  "classes": "701",
+  "image": "books.png",
+  "details": "Philosophy of fine & decorative arts"
+ },
+ {
+  "classes": "702",
+  "image": "books.png",
+  "details": "Miscellany of fine & decorative arts"
+ },
+ {
+  "classes": "703",
+  "image": "books.png",
+  "details": "Dictionaries of fine & decorative arts"
+ },
+ {
+  "classes": "704",
+  "image": "books.png",
+  "details": "Special topics in fine & decorative arts"
+ },
+ {
+  "classes": "705",
+  "image": "books.png",
+  "details": "Serial publications of fine & decorative arts"
+ },
+ {
+  "classes": "706",
+  "image": "books.png",
+  "details": "Organizations & management"
+ },
+ {
+  "classes": "707",
+  "image": "books.png",
+  "details": "Education, research & related topics"
+ },
+ {
+  "classes": "708",
+  "image": "books.png",
+  "details": "Galleries, museums & private collections"
+ },
+ {
+  "classes": "709",
+  "image": "books.png",
+  "details": "Historical, geographic & persons treatment"
+ },
+ {
+  "classes": "710",
+  "image": "books.png",
+  "details": "Civic & landscape art"
+ },
+ {
+  "classes": "711",
+  "image": "books.png",
+  "details": "Area planning"
+ },
+ {
+  "classes": "712",
+  "image": "books.png",
+  "details": "Landscape architecture"
+ },
+ {
+  "classes": "713",
+  "image": "books.png",
+  "details": "Landscape architecture of trafficways"
+ },
+ {
+  "classes": "714",
+  "image": "books.png",
+  "details": "Water features"
+ },
+ {
+  "classes": "715",
+  "image": "books.png",
+  "details": "Woody plants"
+ },
+ {
+  "classes": "716",
+  "image": "books.png",
+  "details": "Herbaceous plants"
+ },
+ {
+  "classes": "717",
+  "image": "books.png",
+  "details": "Structures in landscape architecture"
+ },
+ {
+  "classes": "718",
+  "image": "books.png",
+  "details": "Landscape design of cemeteries"
+ },
+ {
+  "classes": "719",
+  "image": "books.png",
+  "details": "Natural landscapes"
+ },
+ {
+  "classes": "720",
+  "image": "books.png",
+  "details": "Architecture"
+ },
+ {
+  "classes": "721",
+  "image": "books.png",
+  "details": "Architectural structure"
+ },
+ {
+  "classes": "722",
+  "image": "books.png",
+  "details": "Architecture to ca. 300"
+ },
+ {
+  "classes": "723",
+  "image": "books.png",
+  "details": "Architecture from ca. 300 to 1399"
+ },
+ {
+  "classes": "724",
+  "image": "books.png",
+  "details": "Architecture from 1400"
+ },
+ {
+  "classes": "725",
+  "image": "books.png",
+  "details": "Public structures"
+ },
+ {
+  "classes": "726",
+  "image": "books.png",
+  "details": "Buildings for religious purposes"
+ },
+ {
+  "classes": "727",
+  "image": "books.png",
+  "details": "Buildings for education & research"
+ },
+ {
+  "classes": "728",
+  "image": "books.png",
+  "details": "Residential & related buildings"
+ },
+ {
+  "classes": "729",
+  "image": "books.png",
+  "details": "Design & decoration"
+ },
+ {
+  "classes": "730",
+  "image": "books.png",
+  "details": "Plastic arts; sculpture"
+ },
+ {
+  "classes": "731",
+  "image": "books.png",
+  "details": "Processes, forms & subjects of sculpture"
+ },
+ {
+  "classes": "732",
+  "image": "books.png",
+  "details": "Sculpture to ca. 500"
+ },
+ {
+  "classes": "733",
+  "image": "books.png",
+  "details": "Greek, Etruscan & Roman sculpture"
+ },
+ {
+  "classes": "734",
+  "image": "books.png",
+  "details": "Sculpture from ca. 500 to 1399"
+ },
+ {
+  "classes": "735",
+  "image": "books.png",
+  "details": "Sculpture from 1400"
+ },
+ {
+  "classes": "736",
+  "image": "books.png",
+  "details": "Carving & carvings"
+ },
+ {
+  "classes": "737",
+  "image": "books.png",
+  "details": "Numismatics & sigillography"
+ },
+ {
+  "classes": "738",
+  "image": "books.png",
+  "details": "Ceramic arts"
+ },
+ {
+  "classes": "739",
+  "image": "books.png",
+  "details": "Art metalwork"
+ },
+ {
+  "classes": "740",
+  "image": "books.png",
+  "details": "Drawing & decorative arts"
+ },
+ {
+  "classes": "741",
+  "image": "books.png",
+  "details": "Drawing & drawings"
+ },
+ {
+  "classes": "742",
+  "image": "books.png",
+  "details": "Perspective"
+ },
+ {
+  "classes": "743",
+  "image": "books.png",
+  "details": "Drawing & drawings by subject"
+ },
+ {
+  "classes": "744",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "745",
+  "image": "books.png",
+  "details": "Decorative arts"
+ },
+ {
+  "classes": "746",
+  "image": "books.png",
+  "details": "Textile arts"
+ },
+ {
+  "classes": "747",
+  "image": "books.png",
+  "details": "Interior decoration"
+ },
+ {
+  "classes": "748",
+  "image": "books.png",
+  "details": "Glass"
+ },
+ {
+  "classes": "749",
+  "image": "books.png",
+  "details": "Furniture & accessories"
+ },
+ {
+  "classes": "750",
+  "image": "books.png",
+  "details": "Painting & paintings"
+ },
+ {
+  "classes": "751",
+  "image": "books.png",
+  "details": "Techniques, equipment, materials & forms"
+ },
+ {
+  "classes": "752",
+  "image": "books.png",
+  "details": "Color"
+ },
+ {
+  "classes": "753",
+  "image": "books.png",
+  "details": "Symbolism, allegory, mythology & legend"
+ },
+ {
+  "classes": "754",
+  "image": "books.png",
+  "details": "Genre paintings"
+ },
+ {
+  "classes": "755",
+  "image": "books.png",
+  "details": "Religion"
+ },
+ {
+  "classes": "756",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "757",
+  "image": "books.png",
+  "details": "Human figures"
+ },
+ {
+  "classes": "758",
+  "image": "books.png",
+  "details": "Other subjects"
+ },
+ {
+  "classes": "759",
+  "image": "books.png",
+  "details": "Historical, geographic & persons treatment"
+ },
+ {
+  "classes": "760",
+  "image": "books.png",
+  "details": "Graphic arts; printmaking & prints"
+ },
+ {
+  "classes": "761",
+  "image": "books.png",
+  "details": "Relief processes (Block printing)"
+ },
+ {
+  "classes": "762",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "763",
+  "image": "books.png",
+  "details": "Lithographic processes"
+ },
+ {
+  "classes": "764",
+  "image": "books.png",
+  "details": "Chromolithography & serigraphy"
+ },
+ {
+  "classes": "765",
+  "image": "books.png",
+  "details": "Metal engraving"
+ },
+ {
+  "classes": "766",
+  "image": "books.png",
+  "details": "Mezzotinting, aquatinting & related processes"
+ },
+ {
+  "classes": "767",
+  "image": "books.png",
+  "details": "Etching & drypoint"
+ },
+ {
+  "classes": "768",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "769",
+  "image": "books.png",
+  "details": "Prints"
+ },
+ {
+  "classes": "770",
+  "image": "books.png",
+  "details": "Photography, photographs & computer art"
+ },
+ {
+  "classes": "771",
+  "image": "books.png",
+  "details": "Techniques, equipment & materials"
+ },
+ {
+  "classes": "772",
+  "image": "books.png",
+  "details": "Metallic salt processes"
+ },
+ {
+  "classes": "773",
+  "image": "books.png",
+  "details": "Pigment processes of printing"
+ },
+ {
+  "classes": "774",
+  "image": "books.png",
+  "details": "Holography"
+ },
+ {
+  "classes": "775",
+  "image": "books.png",
+  "details": "Digital photography"
+ },
+ {
+  "classes": "776",
+  "image": "books.png",
+  "details": "Computer art (Digital art)"
+ },
+ {
+  "classes": "777",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "778",
+  "image": "books.png",
+  "details": "Fields & kinds of photography"
+ },
+ {
+  "classes": "779",
+  "image": "books.png",
+  "details": "Photographs"
+ },
+ {
+  "classes": "780",
+  "image": "books.png",
+  "details": "Music"
+ },
+ {
+  "classes": "781",
+  "image": "books.png",
+  "details": "General principles & musical forms"
+ },
+ {
+  "classes": "782",
+  "image": "books.png",
+  "details": "Vocal music"
+ },
+ {
+  "classes": "783",
+  "image": "books.png",
+  "details": "Music for single voices; the voice"
+ },
+ {
+  "classes": "784",
+  "image": "books.png",
+  "details": "Instruments & instrumental ensembles"
+ },
+ {
+  "classes": "785",
+  "image": "books.png",
+  "details": "Ensembles with one instrument per part"
+ },
+ {
+  "classes": "786",
+  "image": "books.png",
+  "details": "Keyboard & other instruments"
+ },
+ {
+  "classes": "787",
+  "image": "books.png",
+  "details": "Stringed instruments"
+ },
+ {
+  "classes": "788",
+  "image": "books.png",
+  "details": "Wind instruments"
+ },
+ {
+  "classes": "789",
+  "image": "books.png",
+  "details": "(Optional number)"
+ },
+ {
+  "classes": "790",
+  "image": "books.png",
+  "details": "Recreational & performing arts"
+ },
+ {
+  "classes": "791",
+  "image": "books.png",
+  "details": "Public performances"
+ },
+ {
+  "classes": "792",
+  "image": "books.png",
+  "details": "Stage presentations"
+ },
+ {
+  "classes": "793",
+  "image": "books.png",
+  "details": "Indoor games & amusements"
+ },
+ {
+  "classes": "794",
+  "image": "books.png",
+  "details": "Indoor games of skill"
+ },
+ {
+  "classes": "795",
+  "image": "books.png",
+  "details": "Games of chance"
+ },
+ {
+  "classes": "796",
+  "image": "books.png",
+  "details": "Athletic & outdoor sports & games"
+ },
+ {
+  "classes": "797",
+  "image": "books.png",
+  "details": "Aquatic & air sports"
+ },
+ {
+  "classes": "798",
+  "image": "books.png",
+  "details": "Equestrian sports & animal racing"
+ },
+ {
+  "classes": "799",
+  "image": "books.png",
+  "details": "Fishing, hunting & shooting"
+ },
+ {
+  "classes": "800",
+  "image": "books.png",
+  "details": "Literature & rhetoric"
+ },
+ {
+  "classes": "801",
+  "image": "books.png",
+  "details": "Philosophy & theory"
+ },
+ {
+  "classes": "802",
+  "image": "books.png",
+  "details": "Miscellany"
+ },
+ {
+  "classes": "803",
+  "image": "books.png",
+  "details": "Dictionaries & encyclopedias"
+ },
+ {
+  "classes": "804",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "805",
+  "image": "books.png",
+  "details": "Serial publications"
+ },
+ {
+  "classes": "806",
+  "image": "books.png",
+  "details": "Organizations & management"
+ },
+ {
+  "classes": "807",
+  "image": "books.png",
+  "details": "Education, research & related topics"
+ },
+ {
+  "classes": "808",
+  "image": "books.png",
+  "details": "Rhetoric & collections of literature"
+ },
+ {
+  "classes": "809",
+  "image": "books.png",
+  "details": "History, description & criticism"
+ },
+ {
+  "classes": "810",
+  "image": "books.png",
+  "details": "American literature in English"
+ },
+ {
+  "classes": "811",
+  "image": "books.png",
+  "details": "American poetry in English"
+ },
+ {
+  "classes": "812",
+  "image": "books.png",
+  "details": "American drama in English"
+ },
+ {
+  "classes": "813",
+  "image": "books.png",
+  "details": "American fiction in English"
+ },
+ {
+  "classes": "814",
+  "image": "books.png",
+  "details": "American essays in English"
+ },
+ {
+  "classes": "815",
+  "image": "books.png",
+  "details": "American speeches in English"
+ },
+ {
+  "classes": "816",
+  "image": "books.png",
+  "details": "American letters in English"
+ },
+ {
+  "classes": "817",
+  "image": "books.png",
+  "details": "American humor & satire in English"
+ },
+ {
+  "classes": "818",
+  "image": "books.png",
+  "details": "American miscellaneous writings"
+ },
+ {
+  "classes": "819",
+  "image": "books.png",
+  "details": "(Optional number)"
+ },
+ {
+  "classes": "820",
+  "image": "books.png",
+  "details": "English & Old English literatures"
+ },
+ {
+  "classes": "821",
+  "image": "books.png",
+  "details": "English poetry"
+ },
+ {
+  "classes": "822",
+  "image": "books.png",
+  "details": "English drama"
+ },
+ {
+  "classes": "823",
+  "image": "books.png",
+  "details": "English fiction"
+ },
+ {
+  "classes": "824",
+  "image": "books.png",
+  "details": "English essays"
+ },
+ {
+  "classes": "825",
+  "image": "books.png",
+  "details": "English speeches"
+ },
+ {
+  "classes": "826",
+  "image": "books.png",
+  "details": "English letters"
+ },
+ {
+  "classes": "827",
+  "image": "books.png",
+  "details": "English humor & satire"
+ },
+ {
+  "classes": "828",
+  "image": "books.png",
+  "details": "English miscellaneous writings"
+ },
+ {
+  "classes": "829",
+  "image": "books.png",
+  "details": "Old English (Anglo-Saxon)"
+ },
+ {
+  "classes": "830",
+  "image": "books.png",
+  "details": "Literatures of Germanic languages"
+ },
+ {
+  "classes": "831",
+  "image": "books.png",
+  "details": "German poetry"
+ },
+ {
+  "classes": "832",
+  "image": "books.png",
+  "details": "German drama"
+ },
+ {
+  "classes": "833",
+  "image": "books.png",
+  "details": "German fiction"
+ },
+ {
+  "classes": "834",
+  "image": "books.png",
+  "details": "German essays"
+ },
+ {
+  "classes": "835",
+  "image": "books.png",
+  "details": "German speeches"
+ },
+ {
+  "classes": "836",
+  "image": "books.png",
+  "details": "German letters"
+ },
+ {
+  "classes": "837",
+  "image": "books.png",
+  "details": "German humor & satire"
+ },
+ {
+  "classes": "838",
+  "image": "books.png",
+  "details": "German miscellaneous writings"
+ },
+ {
+  "classes": "839",
+  "image": "books.png",
+  "details": "Other Germanic literatures"
+ },
+ {
+  "classes": "840",
+  "image": "books.png",
+  "details": "Literatures of Romance languages"
+ },
+ {
+  "classes": "841",
+  "image": "books.png",
+  "details": "French poetry"
+ },
+ {
+  "classes": "842",
+  "image": "books.png",
+  "details": "French drama"
+ },
+ {
+  "classes": "843",
+  "image": "books.png",
+  "details": "French fiction"
+ },
+ {
+  "classes": "844",
+  "image": "books.png",
+  "details": "French essays"
+ },
+ {
+  "classes": "845",
+  "image": "books.png",
+  "details": "French speeches"
+ },
+ {
+  "classes": "846",
+  "image": "books.png",
+  "details": "French letters"
+ },
+ {
+  "classes": "847",
+  "image": "books.png",
+  "details": "French humor & satire"
+ },
+ {
+  "classes": "848",
+  "image": "books.png",
+  "details": "French miscellaneous writings"
+ },
+ {
+  "classes": "849",
+  "image": "books.png",
+  "details": "Occitan & Catalan literatures"
+ },
+ {
+  "classes": "850",
+  "image": "books.png",
+  "details": "Italian, Romanian & related literatures"
+ },
+ {
+  "classes": "851",
+  "image": "books.png",
+  "details": "Italian poetry"
+ },
+ {
+  "classes": "852",
+  "image": "books.png",
+  "details": "Italian drama"
+ },
+ {
+  "classes": "853",
+  "image": "books.png",
+  "details": "Italian fiction"
+ },
+ {
+  "classes": "854",
+  "image": "books.png",
+  "details": "Italian essays"
+ },
+ {
+  "classes": "855",
+  "image": "books.png",
+  "details": "Italian speeches"
+ },
+ {
+  "classes": "856",
+  "image": "books.png",
+  "details": "Italian letters"
+ },
+ {
+  "classes": "857",
+  "image": "books.png",
+  "details": "Italian humor & satire"
+ },
+ {
+  "classes": "858",
+  "image": "books.png",
+  "details": "Italian miscellaneous writings"
+ },
+ {
+  "classes": "859",
+  "image": "books.png",
+  "details": "Romanian & related literatures"
+ },
+ {
+  "classes": "860",
+  "image": "books.png",
+  "details": "Spanish & Portuguese literatures"
+ },
+ {
+  "classes": "861",
+  "image": "books.png",
+  "details": "Spanish poetry"
+ },
+ {
+  "classes": "862",
+  "image": "books.png",
+  "details": "Spanish drama"
+ },
+ {
+  "classes": "863",
+  "image": "books.png",
+  "details": "Spanish fiction"
+ },
+ {
+  "classes": "864",
+  "image": "books.png",
+  "details": "Spanish essays"
+ },
+ {
+  "classes": "865",
+  "image": "books.png",
+  "details": "Spanish speeches"
+ },
+ {
+  "classes": "866",
+  "image": "books.png",
+  "details": "Spanish letters"
+ },
+ {
+  "classes": "867",
+  "image": "books.png",
+  "details": "Spanish humor & satire"
+ },
+ {
+  "classes": "868",
+  "image": "books.png",
+  "details": "Spanish miscellaneous writings"
+ },
+ {
+  "classes": "869",
+  "image": "books.png",
+  "details": "Portuguese literature"
+ },
+ {
+  "classes": "870",
+  "image": "books.png",
+  "details": "Italic literatures; Latin literature"
+ },
+ {
+  "classes": "871",
+  "image": "books.png",
+  "details": "Latin poetry"
+ },
+ {
+  "classes": "872",
+  "image": "books.png",
+  "details": "Latin dramatic poetry & drama"
+ },
+ {
+  "classes": "873",
+  "image": "books.png",
+  "details": "Latin epic poetry & fiction"
+ },
+ {
+  "classes": "874",
+  "image": "books.png",
+  "details": "Latin lyric poetry"
+ },
+ {
+  "classes": "875",
+  "image": "books.png",
+  "details": "Latin speeches"
+ },
+ {
+  "classes": "876",
+  "image": "books.png",
+  "details": "Latin letters"
+ },
+ {
+  "classes": "877",
+  "image": "books.png",
+  "details": "Latin humor & satire"
+ },
+ {
+  "classes": "878",
+  "image": "books.png",
+  "details": "Latin miscellaneous writings"
+ },
+ {
+  "classes": "879",
+  "image": "books.png",
+  "details": "Literatures of other Italic languages"
+ },
+ {
+  "classes": "880",
+  "image": "books.png",
+  "details": "Hellenic literatures; classical Greek"
+ },
+ {
+  "classes": "881",
+  "image": "books.png",
+  "details": "Classical Greek poetry"
+ },
+ {
+  "classes": "882",
+  "image": "books.png",
+  "details": "Classical Greek dramatic poetry & drama"
+ },
+ {
+  "classes": "883",
+  "image": "books.png",
+  "details": "Classical Greek epic poetry & fiction"
+ },
+ {
+  "classes": "884",
+  "image": "books.png",
+  "details": "Classical Greek lyric poetry"
+ },
+ {
+  "classes": "885",
+  "image": "books.png",
+  "details": "Classical Greek speeches"
+ },
+ {
+  "classes": "886",
+  "image": "books.png",
+  "details": "Classical Greek letters"
+ },
+ {
+  "classes": "887",
+  "image": "books.png",
+  "details": "Classical Greek humor & satire"
+ },
+ {
+  "classes": "888",
+  "image": "books.png",
+  "details": "Classical Greek miscellaneous writings"
+ },
+ {
+  "classes": "889",
+  "image": "books.png",
+  "details": "Modern Greek literature"
+ },
+ {
+  "classes": "890",
+  "image": "books.png",
+  "details": "Literatures of other languages"
+ },
+ {
+  "classes": "891",
+  "image": "books.png",
+  "details": "East Indo-European & Celtic literatures"
+ },
+ {
+  "classes": "892",
+  "image": "books.png",
+  "details": "Afro-Asiatic literatures; Semitic literatures"
+ },
+ {
+  "classes": "893",
+  "image": "books.png",
+  "details": "Non-Semitic Afro-Asiatic literatures"
+ },
+ {
+  "classes": "894",
+  "image": "books.png",
+  "details": "Altaic, Uralic, Hyperborean & Dravidian"
+ },
+ {
+  "classes": "895",
+  "image": "books.png",
+  "details": "Literatures of East & Southeast Asia"
+ },
+ {
+  "classes": "896",
+  "image": "books.png",
+  "details": "African literatures"
+ },
+ {
+  "classes": "897",
+  "image": "books.png",
+  "details": "North American native literatures"
+ },
+ {
+  "classes": "898",
+  "image": "books.png",
+  "details": "South American native literatures"
+ },
+ {
+  "classes": "899",
+  "image": "books.png",
+  "details": "Austronesian & other literatures"
+ },
+ {
+  "classes": "900",
+  "image": "books.png",
+  "details": "History & geography"
+ },
+ {
+  "classes": "901",
+  "image": "books.png",
+  "details": "Philosophy & theory"
+ },
+ {
+  "classes": "902",
+  "image": "books.png",
+  "details": "Miscellany"
+ },
+ {
+  "classes": "903",
+  "image": "books.png",
+  "details": "Dictionaries & encyclopedias"
+ },
+ {
+  "classes": "904",
+  "image": "books.png",
+  "details": "Collected accounts of events"
+ },
+ {
+  "classes": "905",
+  "image": "books.png",
+  "details": "Serial publications"
+ },
+ {
+  "classes": "906",
+  "image": "books.png",
+  "details": "Organizations & management"
+ },
+ {
+  "classes": "907",
+  "image": "books.png",
+  "details": "Education, research & related topics"
+ },
+ {
+  "classes": "908",
+  "image": "books.png",
+  "details": "Kinds of persons treatment"
+ },
+ {
+  "classes": "909",
+  "image": "books.png",
+  "details": "World history"
+ },
+ {
+  "classes": "910",
+  "image": "books.png",
+  "details": "Geography & travel"
+ },
+ {
+  "classes": "911",
+  "image": "books.png",
+  "details": "Historical geography"
+ },
+ {
+  "classes": "912",
+  "image": "books.png",
+  "details": "Atlases, maps, charts & plans"
+ },
+ {
+  "classes": "913",
+  "image": "books.png",
+  "details": "Geography of & travel in ancient world"
+ },
+ {
+  "classes": "914",
+  "image": "books.png",
+  "details": "Geography of & travel in Europe"
+ },
+ {
+  "classes": "915",
+  "image": "books.png",
+  "details": "Geography of & travel in Asia"
+ },
+ {
+  "classes": "916",
+  "image": "books.png",
+  "details": "Geography of & travel in Africa"
+ },
+ {
+  "classes": "917",
+  "image": "books.png",
+  "details": "Geography of & travel in North America"
+ },
+ {
+  "classes": "918",
+  "image": "books.png",
+  "details": "Geography of & travel in South America"
+ },
+ {
+  "classes": "919",
+  "image": "books.png",
+  "details": "Geography of & travel in other areas"
+ },
+ {
+  "classes": "920",
+  "image": "books.png",
+  "details": "Biography, genealogy & insignia"
+ },
+ {
+  "classes": "921",
+  "image": "books.png",
+  "details": "(Optional number)"
+ },
+ {
+  "classes": "922",
+  "image": "books.png",
+  "details": "(Optional number)"
+ },
+ {
+  "classes": "923",
+  "image": "books.png",
+  "details": "(Optional number)"
+ },
+ {
+  "classes": "924",
+  "image": "books.png",
+  "details": "(Optional number)"
+ },
+ {
+  "classes": "925",
+  "image": "books.png",
+  "details": "(Optional number)"
+ },
+ {
+  "classes": "926",
+  "image": "books.png",
+  "details": "(Optional number)"
+ },
+ {
+  "classes": "927",
+  "image": "books.png",
+  "details": "(Optional number)"
+ },
+ {
+  "classes": "928",
+  "image": "books.png",
+  "details": "(Optional number)"
+ },
+ {
+  "classes": "929",
+  "image": "books.png",
+  "details": "Genealogy, names & insignia"
+ },
+ {
+  "classes": "930",
+  "image": "books.png",
+  "details": "History of ancient world to ca. 499"
+ },
+ {
+  "classes": "931",
+  "image": "books.png",
+  "details": "China to 420"
+ },
+ {
+  "classes": "932",
+  "image": "books.png",
+  "details": "Egypt to 640"
+ },
+ {
+  "classes": "933",
+  "image": "books.png",
+  "details": "Palestine to 70"
+ },
+ {
+  "classes": "934",
+  "image": "books.png",
+  "details": "India to 647"
+ },
+ {
+  "classes": "935",
+  "image": "books.png",
+  "details": "Mesopotamia & Iranian Plateau to 637"
+ },
+ {
+  "classes": "936",
+  "image": "books.png",
+  "details": "Europe north & west of Italy to ca. 499"
+ },
+ {
+  "classes": "937",
+  "image": "books.png",
+  "details": "Italy & adjacent territories to 476"
+ },
+ {
+  "classes": "938",
+  "image": "books.png",
+  "details": "Greece to 323"
+ },
+ {
+  "classes": "939",
+  "image": "books.png",
+  "details": "Other parts of ancient world to ca. 640"
+ },
+ {
+  "classes": "940",
+  "image": "books.png",
+  "details": "History of Europe"
+ },
+ {
+  "classes": "941",
+  "image": "books.png",
+  "details": "British Isles"
+ },
+ {
+  "classes": "942",
+  "image": "books.png",
+  "details": "England & Wales"
+ },
+ {
+  "classes": "943",
+  "image": "books.png",
+  "details": "Central Europe; Germany"
+ },
+ {
+  "classes": "944",
+  "image": "books.png",
+  "details": "France & Monaco"
+ },
+ {
+  "classes": "945",
+  "image": "books.png",
+  "details": "Italian Peninsula & adjacent islands"
+ },
+ {
+  "classes": "946",
+  "image": "books.png",
+  "details": "Iberian Peninsula & adjacent islands"
+ },
+ {
+  "classes": "947",
+  "image": "books.png",
+  "details": "Eastern Europe; Russia"
+ },
+ {
+  "classes": "948",
+  "image": "books.png",
+  "details": "Scandinavia"
+ },
+ {
+  "classes": "949",
+  "image": "books.png",
+  "details": "Other parts of Europe"
+ },
+ {
+  "classes": "950",
+  "image": "books.png",
+  "details": "History of Asia; Far East"
+ },
+ {
+  "classes": "951",
+  "image": "books.png",
+  "details": "China & adjacent areas"
+ },
+ {
+  "classes": "952",
+  "image": "books.png",
+  "details": "Japan"
+ },
+ {
+  "classes": "953",
+  "image": "books.png",
+  "details": "Arabian Peninsula & adjacent areas"
+ },
+ {
+  "classes": "954",
+  "image": "books.png",
+  "details": "South Asia; India"
+ },
+ {
+  "classes": "955",
+  "image": "books.png",
+  "details": "Iran"
+ },
+ {
+  "classes": "956",
+  "image": "books.png",
+  "details": "Middle East (Near East)"
+ },
+ {
+  "classes": "957",
+  "image": "books.png",
+  "details": "Siberia (Asiatic Russia)"
+ },
+ {
+  "classes": "958",
+  "image": "books.png",
+  "details": "Central Asia"
+ },
+ {
+  "classes": "959",
+  "image": "books.png",
+  "details": "Southeast Asia"
+ },
+ {
+  "classes": "960",
+  "image": "books.png",
+  "details": "History of Africa"
+ },
+ {
+  "classes": "961",
+  "image": "books.png",
+  "details": "Tunisia & Libya"
+ },
+ {
+  "classes": "962",
+  "image": "books.png",
+  "details": "Egypt & Sudan"
+ },
+ {
+  "classes": "963",
+  "image": "books.png",
+  "details": "Ethiopia & Eritrea"
+ },
+ {
+  "classes": "964",
+  "image": "books.png",
+  "details": "Northwest African coast & offshore islands"
+ },
+ {
+  "classes": "965",
+  "image": "books.png",
+  "details": "Algeria"
+ },
+ {
+  "classes": "966",
+  "image": "books.png",
+  "details": "West Africa & offshore islands"
+ },
+ {
+  "classes": "967",
+  "image": "books.png",
+  "details": "Central Africa & offshore islands"
+ },
+ {
+  "classes": "968",
+  "image": "books.png",
+  "details": "Southern Africa; Republic of South Africa"
+ },
+ {
+  "classes": "969",
+  "image": "books.png",
+  "details": "South Indian Ocean islands"
+ },
+ {
+  "classes": "970",
+  "image": "books.png",
+  "details": "History of North America"
+ },
+ {
+  "classes": "971",
+  "image": "books.png",
+  "details": "Canada"
+ },
+ {
+  "classes": "972",
+  "image": "books.png",
+  "details": "Middle America; Mexico"
+ },
+ {
+  "classes": "973",
+  "image": "books.png",
+  "details": "United States"
+ },
+ {
+  "classes": "974",
+  "image": "books.png",
+  "details": "Northeastern United States"
+ },
+ {
+  "classes": "975",
+  "image": "books.png",
+  "details": "Southeastern United States"
+ },
+ {
+  "classes": "976",
+  "image": "books.png",
+  "details": "South central United States"
+ },
+ {
+  "classes": "977",
+  "image": "books.png",
+  "details": "North central United States"
+ },
+ {
+  "classes": "978",
+  "image": "books.png",
+  "details": "Western United States"
+ },
+ {
+  "classes": "979",
+  "image": "books.png",
+  "details": "Great Basin & Pacific Slope region"
+ },
+ {
+  "classes": "980",
+  "image": "books.png",
+  "details": "History of South America"
+ },
+ {
+  "classes": "981",
+  "image": "books.png",
+  "details": "Brazil"
+ },
+ {
+  "classes": "982",
+  "image": "books.png",
+  "details": "Argentina"
+ },
+ {
+  "classes": "983",
+  "image": "books.png",
+  "details": "Chile"
+ },
+ {
+  "classes": "984",
+  "image": "books.png",
+  "details": "Bolivia"
+ },
+ {
+  "classes": "985",
+  "image": "books.png",
+  "details": "Peru"
+ },
+ {
+  "classes": "986",
+  "image": "books.png",
+  "details": "Colombia & Ecuador"
+ },
+ {
+  "classes": "987",
+  "image": "books.png",
+  "details": "Venezuela"
+ },
+ {
+  "classes": "988",
+  "image": "books.png",
+  "details": "Guiana"
+ },
+ {
+  "classes": "989",
+  "image": "books.png",
+  "details": "Paraguay & Uruguay"
+ },
+ {
+  "classes": "990",
+  "image": "books.png",
+  "details": "History of other areas"
+ },
+ {
+  "classes": "991",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "992",
+  "image": "books.png",
+  "details": "Unassigned"
+ },
+ {
+  "classes": "993",
+  "image": "books.png",
+  "details": "New Zealand"
+ },
+ {
+  "classes": "994",
+  "image": "books.png",
+  "details": "Australia"
+ },
+ {
+  "classes": "995",
+  "image": "books.png",
+  "details": "Melanesia; New Guinea"
+ },
+ {
+  "classes": "996",
+  "image": "books.png",
+  "details": "Other parts of Pacific; Polynesia"
+ },
+ {
+  "classes": "997",
+  "image": "books.png",
+  "details": "Atlantic Ocean islands"
+ },
+ {
+  "classes": "998",
+  "image": "books.png",
+  "details": "Arctic islands & Antarctica"
+ },
+ {
+  "classes": "999",
+  "image": "books.png",
+  "details": "Extraterrestrial worlds"
+ }
+]
