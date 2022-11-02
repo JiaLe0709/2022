@@ -1,6 +1,6 @@
 # 2022 Projects
 
-Include Languages :
+Include Projects :
 
 - Python
 - HTML
@@ -8,3 +8,4 @@ Include Languages :
 - PHP
 - JavaScript (JS)
 - C# (Unity)
+- Jupyter Notebook
